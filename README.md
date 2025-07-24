@@ -1,5 +1,5 @@
 # Restaurant Data Analysis Project
-This repository contains a comprehensive data analysis project focused on understanding key trends and dynamics within the restaurant industry. This project was completed as part of my Data Analyst Internship at **Cognifyz Technologies**.
+This repository contains a comprehensive data analysis project focused on understanding key trends and dynamics within the restaurant industry.
 
 # Project Overview
 In an increasingly competitive culinary landscape, data-driven insights are crucial for strategic decision-making. This project aims to extract actionable intelligence from a restaurant dataset, covering various aspects from customer preferences and geographical distribution to pricing strategies and the impact of online services.
