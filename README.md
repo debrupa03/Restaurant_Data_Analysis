@@ -31,7 +31,7 @@ This repository offers two main ways to explore the project:
     * Provides a comprehensive summary of the project's introduction, methodology, key findings, and actionable recommendations.
     * Presents the interpretations of the analysis, including the Logit Regression results, in a clear and concise manner.
     * Perfect for a quick overview of the insights and business implications.
-3.  **Raw Data (`dataset .csv` ):**
+3.  **Raw Data (`Dataset .csv` ):**
     * This file contains the original dataset used for all analyses in this project.
     * It allows you for full reproducibility, enabling you to run the Jupyter Notebook.
 
